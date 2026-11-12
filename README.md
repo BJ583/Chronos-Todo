@@ -4,7 +4,7 @@
 
 ## 下载和使用
 
-从源码构建 Windows x64 便携版后，双击 `ToDoList_Electron.exe` 启动。首次启动会创建一个空的默认清单。任务保存在程序同目录的 `todo_data.sqlite3` 中，备份任务时请复制这个文件。
+在 [Releases](https://github.com/BJ583/Chronos-Todo/releases/latest) 的 **Assets** 中下载 Windows x64 便携版，然后双击 `ToDoList_Electron.exe` 启动。首次启动会创建一个空的默认清单。任务保存在程序同目录的 `todo_data.sqlite3` 中，备份任务时请复制这个文件。
 
 ## 功能
 
